@@ -1,8 +1,8 @@
 # Ultimate AI Models & API Directory
 
->A comprehensive directory of **608 AI models, chatbots, open-source frameworks, search engines, coding assistants, app builders, creative studios, autonomous agents, and industry AI platforms** across **32 categories** — including key features, best use cases, free plan availability, pricing, and supported platforms.
+>A comprehensive directory of **609 AI models, chatbots, open-source frameworks, search engines, coding assistants, app builders, creative studios, autonomous agents, and industry AI platforms** across **32 categories** — including key features, best use cases, free plan availability, pricing, and supported platforms.
 
-`Total Unique AIs: 608` · `Categories: 32` · `Free / Open-Source: 509 (83.7%)` · `Duplicates: 0` · `Updated: November 2026` · `License: MIT`
+`Total Unique AIs: 609` · `Categories: 32` · `Free / Open-Source: 510 (83.7%)` · `Duplicates: 0` · `Updated: November 2026` · `License: MIT`
 
 **Quick Navigation:**
 · [Directory Statistics](#directory-statistics) 
@@ -27,9 +27,9 @@
 
 | Metric | Count | Share | Notes |
 | :--- | ---: | ---: | :--- |
-| **Total Unique AIs Listed** | **608** | `100.0%` | Strictly deduplicated (`1 AI = 1 canonical entry`) |
+| **Total Unique AIs Listed** | **609** | `100.0%` | Strictly deduplicated (`1 AI = 1 canonical entry`) |
 | **Total AI Categories** | **32** | — | Consumer, Developer, Open-Source, Creative, Science & Enterprise |
-| **AIs with Free Access** | **509** | `83.7%` | Includes Freemium, 100% Free Cloud & Open-Source/Open-Weight |
+| **AIs with Free Access** | **510** | `83.7%` | Includes Freemium, 100% Free Cloud & Open-Source/Open-Weight |
 | **Zero-Cost / Open-Source (`$0`)** | **202** | `33.2%` | `164` Open-Source/Open-Weight + `38` 100% Free Cloud/Apps |
 | **Freemium (Free Plan + Paid Upgrades)** | **307** | `50.5%` | Persistent free tier with optional Pro/Team upgrades |
 | **Free Trial / Preview / Demo Only** | **73** | `12.0%` | Time-limited trial or interactive product preview |
@@ -93,7 +93,7 @@
 | `30` | [Regional, Sovereign & Multilingual AI Champions](#30-regional-sovereign--multilingual-ai-champions) | **16** | 16 | 0 | `2.6%` |
 | `31` | [AI Browser Extensions & Desktop Everyday Copilots](#31-ai-browser-extensions--desktop-everyday-copilots) | **8** | 8 | 0 | `1.3%` |
 | `32` | [Multi-AI Hubs, Cloud GPUs, Inference Clouds & Leaderboards](#32-multi-ai-hubs-cloud-gpus-inference-clouds--leaderboards) | **23** | 21 | 2 | `3.8%` |
-| **All** | **Total Across All 32 Categories** | **608** | **509** | **99** | **`100.0%`** |
+| **All** | **Total Across All 32 Categories** | **609** | **510** | **99** | **`100.0%`** |
 
 *Jump to:* **[Quick Guide: Best AI for Every Task (2026)](#quick-guide-best-ai-for-every-task-2026)** · **[Contributing](#contributing)** · **[License](#license)**
 
@@ -228,7 +228,7 @@
 
 ### 5. AI Search Engines & Deep Research Tools
 
-*24 unique AIs listed · 23 with Free Plan or Open-Source*
+*25 unique AIs listed · 24 with Free Plan or Open-Source*
 
 | AI Name | Creator | What It Does & Key Features | Best For | Free Plan | Pricing | Platforms |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -256,6 +256,7 @@
 | [Tavily](https://tavily.com) | Tavily | Purpose-built **AI Search & Extraction API** returning clean, hallucination-reduced web chunks & cited answers specifically formatted for RAG and autonomous agents. | Giving LangGraph, CrewAI, Claude MCP & custom agents live web search | Yes (**1,000 free searches/month**, no credit card needed) | `1,000/mo` Free · Pay-as-you-go `$0.008/search` | Web Playground, MCP, Python/TS |
 | [Crawl4AI](https://crawl4ai.com) | Unclecode (Open-Source) | Blazing-fast **Apache-2.0** open-source LLM-friendly web crawler & scraper converting dynamic JS-rendered websites into clean, structured Markdown & JSON. | 100% free self-hosted web scraping & documentation crawling for LLMs | Free & Open-Source (`Apache-2.0`) | `$0` Free Open-Source | Python, Docker, CLI |
 | [Firecrawl](https://www.firecrawl.dev) | Mendable | Open-source + cloud AI web crawler turning entire multi-page websites, PDFs, and dynamic SPAs into clean LLM-ready Markdown or structured Pydantic schemas. | Crawling entire docs/competitor sites into clean RAG Markdown | Yes (Open-source self-host + **500 free cloud pages**) | `$0` Self-Hosted · Hobby `$16/mo` | Docker, Web Cloud, MCP, SDK |
+| [Kagi](https://kagi.com) | Kagi | AI-powered, ad-free, privacy-first search engine with custom indices, LLM integration & answer mode. | Private, ad-free daily search with instant cited summaries | Yes (Free tier) | Free · Paid plans starting at $5/mo | Web |
 
 **[⬆ Back to Index](#index)** · **[⬆ Directory Statistics](#directory-statistics)**
 
@@ -1094,7 +1095,7 @@
 
 ```text
 Ultimate-AI-Models-API-Directory/
-├── README.md                              # Main directory (608 unique AIs across 32 categories + stats)
+├── README.md                              # Main directory (609 unique AIs across 32 categories + stats)
 ├── CONTRIBUTING.md                        # Submission rules & 7-column Markdown row template
 ├── LICENSE                                # MIT License
 ├── scripts/
